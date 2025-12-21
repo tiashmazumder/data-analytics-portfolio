@@ -29,11 +29,11 @@ The dashboard enables stakeholders to analyse sales trends, regional performance
 - Profit contribution by customer segment
 
 📂 Files Included
-- `Sales_Performance_Profitability_Dashboard.xlsx` – Interactive Excel dashboard
-- `dashboard.png` – Dashboard preview image
+- `Sales Performance.xlsx` – Interactive Excel dashboard
+- `Sales Performance Dashboard.png` – Dashboard preview image
 
 🖼 Dashboard Preview
-Sales Performance Dashboard.png
+![Dashboard Preview](Sales Performance Dashboard.png)
 
 ## 👤 Author
 **Tiash Mazumder**  
