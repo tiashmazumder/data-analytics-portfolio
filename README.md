@@ -33,7 +33,7 @@ The dashboard enables stakeholders to analyse sales trends, regional performance
 - `dashboard.png` – Dashboard preview image
 
 🖼 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+Sales Performance Dashboard.png
 
 ## 👤 Author
 **Tiash Mazumder**  
